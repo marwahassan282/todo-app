@@ -1,0 +1,22 @@
+{
+  "todoTitle": "To Do App",
+  "language": "Language",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "english": "English",
+  "arabic": "Arabic",
+  "tasks": "tasks",
+  "setting": "settings",
+  "addnewtask": "Add new Task",
+  "title": "title",
+  "description": "descripition",
+  "time": "select Time ",
+  "addbutton": "Add task",
+  "sure": "Are you sure you want to delete note",
+  "yes": "yes",
+  "no": "no",
+  "update": "Update your Task,",
+  "updatebutton": "Update task",
+  "delete": "delete"
+}
